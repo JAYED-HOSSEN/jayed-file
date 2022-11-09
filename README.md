@@ -1,3 +1,7 @@
+https://user-images.githubusercontent.com/98962829/193396293-bcd278aa-6d0c-4681-8a06-9c4fa83880f2.gif
+
+
+
 pkg update&
 pkg upgrade&
 apt install git&
